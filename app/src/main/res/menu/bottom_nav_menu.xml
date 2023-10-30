@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cameraFragment"
+        android:icon="@drawable/baseline_camera_alt_24"
+        android:title="@string/string_camara" />
+
+    <item
+        android:id="@+id/carritoFragment"
+        android:icon="@drawable/baseline_add_shopping_cart_24"
+        android:title="@string/string_carrito" />
+
+    <item
+        android:id="@+id/personaFragment"
+        android:icon="@drawable/baseline_supervised_user_circle_24"
+        android:title="@string/string_usuarios" />
+
+    <item
+        android:id="@+id/otherFragment"
+        android:icon="@drawable/baseline_supervised_user_circle_24"
+        android:title="@string/stringother" />
+
+</menu>

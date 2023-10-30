@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Semana07DAM1botonNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="string_camara">Camara</string>
+    <string name="string_carrito">Carrito</string>
+    <string name="string_usuarios">Usuarios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stringother">Otros</string>
+</resources>
